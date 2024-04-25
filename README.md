@@ -1,2 +1,2 @@
-# baccarot-ai
+# baccarat-ai
 for selling
